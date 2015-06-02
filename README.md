@@ -1,5 +1,5 @@
-# CashRegister_3.8
-Cash Register 3/8
+# CashRegister_4.7
+Cash Register 4/7
 
 I Have to Scan It More Than Once?
 Is that a smile on the boss's face? Well, there was one until he realized that your system requires every item to be scanned individually. He finds this pretty inefficient and you probably agree. Let's get real—it was pretty annoying having to call the scan method five times in the previous exercise!
